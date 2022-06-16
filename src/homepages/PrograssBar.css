@@ -1,0 +1,52 @@
+.container{
+                         margin-left:0rem;
+                         background-color: rgb(192, 192, 192);
+                         width: 100%;
+                         border-radius: 15px;
+                         color:black;
+                         font-size:12px;
+                         font-weight:bold;
+}
+.server{
+                         width:20%;
+                         background:red;
+                        
+                         border-radius: 15px;
+}
+
+.p-tag {
+                         margin-left:0rem; 
+                         color:gray;
+                         font-size:12px;  
+} 
+.sales{
+                         width:40%;
+                         background:orange;
+                        
+                         border-radius: 15px;
+
+}
+.customer{
+                         width:60%;
+                         background:blue;
+                        
+                         border-radius: 15px;
+
+}
+.payout{
+                         width:80%;
+                         background:teal;
+                        
+                         border-radius: 15px;
+}
+.account{
+                         width:100%;
+                         background:green;
+                        
+                         border-radius: 15px;
+}
+.progress-card{
+                      
+                         width:500px; 
+                        
+}

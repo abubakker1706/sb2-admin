@@ -1,0 +1,48 @@
+.css-1f2xuhi-MuiDrawer-docked .MuiDrawer-paper{
+                         background: #4e73df;
+                         color:white;
+}
+.css-1f2xuhi-MuiDrawer-docked .MuiDrawer-paper hr{
+                         flex-shrink: 0;
+                         border-width: 0;
+                         border-style: solid;
+                         border-color: #a2a2a7;
+                         border-bottom-width: thin;
+}
+.card p{
+                         color:gray;
+                         font-size:12px;
+                         font-weight: lighter;
+}
+.text{
+                         color:gray;
+                         font-size:13px;
+                         font-weight: bold;        
+}
+.sb p{
+                         color:white;
+                         font-size:18px;
+                         font-weight: bold;  
+                        margin-left:5rem;
+                       position:relative;
+                        margin-top:-2.5rem;
+}
+.sb img{                 
+                         color:white;
+                         margin-left:2rem;
+                         background:#4e73df;
+                         transform: rotate(-0.08turn);
+                        
+                        object-fit:cover;
+                        width:40px;
+                        height:40px; 
+                       
+                    
+}
+.mail{
+                         display:flex;
+                         flex-direction:column;
+                         width:250px;
+                         height:min-content;
+                         justify-content:space-around
+}
